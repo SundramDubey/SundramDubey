@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @SundramDubey
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning BCA.
-- 📫 You can reach me by using any social media link given in profile. 
-- 😄 Pronouns: He/Him
+# 👋 Hi, I'm Sundram Dwivedi
 
-<!---
-SundramDubey/SundramDubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA Student | Aspiring Frontend Developer  
+💻 Passionate about building user-friendly web applications  
+
+---
+
+## 🚀 About Me
+- 🎓 Pursuing BCA from Siddhartha University (2026)
+- 🌱 Currently learning Frontend Development (JavaScript, React)
+- 💡 Interested in Web Development & Software Engineering
+- 🎯 Goal: To become a Software Development Engineer
+
+---
+
+## 🛠️ Skills
+- 💻 HTML5, CSS3, JavaScript
+- ⚛️ ReactJS (Learning)
+- 🧠 Data Structures & Algorithms (Basic)
+- 🔧 Git & GitHub
+
+---
+
+## 📂 Projects
+- 📝 To-Do List App
+
+---
+
+## 📫 Connect with Me
+- 📧 brahmansundram@gmail.com
+- 🔗 https://www.linkedin.com/in/dubeysundram
+
+---
+
+⭐ Always eager to learn and grow in the tech field!
